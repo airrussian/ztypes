@@ -1,0 +1,20 @@
+{
+  "name": "ztypes",
+  "version": "1.1.0",
+  "description": "Elementary data types for describing devices",
+  "main": "index.ts",
+  "keywords": [
+    "ztypes",
+    "zota types",
+    "simple types",
+    "zota array"
+  ],
+  "author": "Alexey Voronenko",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "tslint": "^6.1.3"
+  }
+}
